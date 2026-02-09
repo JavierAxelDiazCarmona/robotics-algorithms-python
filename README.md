@@ -9,11 +9,11 @@ Este repositorio contiene una colección de implementaciones de algoritmos funda
 
 ## 📂 Contenido del Portafolio
 
-| Notebook | Temática | Descripción Técnica |
+| Carpeta / Práctica | Temática | Enlace al Notebook |
 | :--- | :--- | :--- |
-| **[Practica_1.ipynb](./Practica_1.ipynb)** | 📐 Cinemática | [Ej: Implementación de Matrices de Transformación Homogénea para un brazo de 3 GDL.] |
-| **[Practica_2.ipynb](./Practica_2.ipynb)** | 🦾 Denavit-Hartenberg | [Ej: Cálculo de la Cinemática Directa usando la convención DH para un robot SCARA.] |
-| **[Practica_3.ipynb](./Practica_3.ipynb)** | ⚡ Control / Dinámica | [Ej: Simulación de control de trayectoria o cálculo del Jacobiano.] |
+| **01-Cinematica** | 📐 Cinemática de Robots | [**Ver Practica_1.ipynb**](./01-Cinematica/Practica_1.ipynb) |
+| **02-Dinámica** | 🦾 Dinámica y Control | [**Ver Practica_2.ipynb**](./02-Dinámica/Practica_2.ipynb) |
+| **03-Dinamica-Robots** | ⚡ Simulación Avanzada | [**Ver Practica_3.ipynb**](./03-Dinamica-Robots/Practica_3.ipynb) |
 
 ## 🚀 Cómo ejecutar los proyectos
 1.  Clona el repositorio:
