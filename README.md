@@ -30,7 +30,7 @@ Este repositorio contiene una colección de implementaciones de algoritmos funda
     ```
 
 ---
-*Autor: [Javier Axel Díaz Carmona](https://github.com/JavierAxelDiazCarmona)*
+*Autor: [Javier Axel Díaz Carmona](https://github.com/AxCardiz)*
 
 ---
 ## Derechos de Autor
